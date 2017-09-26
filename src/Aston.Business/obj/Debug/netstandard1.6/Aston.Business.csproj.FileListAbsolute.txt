@@ -1,0 +1,8 @@
+/Users/verdeny/AstonProject/Aston.Business/bin/Debug/netstandard1.6/Aston.Business.deps.json
+/Users/verdeny/AstonProject/Aston.Business/bin/Debug/netstandard1.6/Aston.Business.dll
+/Users/verdeny/AstonProject/Aston.Business/bin/Debug/netstandard1.6/Aston.Business.pdb
+/Users/verdeny/AstonProject/Aston.Business/bin/Debug/netstandard1.6/Aston.Entities.dll
+/Users/verdeny/AstonProject/Aston.Business/bin/Debug/netstandard1.6/Aston.Entities.pdb
+/Users/verdeny/AstonProject/Aston.Business/obj/Debug/netstandard1.6/Aston.Business.AssemblyInfo.cs
+/Users/verdeny/AstonProject/Aston.Business/obj/Debug/netstandard1.6/Aston.Business.dll
+/Users/verdeny/AstonProject/Aston.Business/obj/Debug/netstandard1.6/Aston.Business.pdb

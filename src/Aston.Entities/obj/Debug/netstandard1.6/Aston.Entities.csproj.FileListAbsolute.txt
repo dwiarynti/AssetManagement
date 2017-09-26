@@ -1,0 +1,6 @@
+/Users/verdeny/AstonProject/Aston.Entities/bin/Debug/netstandard1.6/Aston.Entities.deps.json
+/Users/verdeny/AstonProject/Aston.Entities/bin/Debug/netstandard1.6/Aston.Entities.dll
+/Users/verdeny/AstonProject/Aston.Entities/bin/Debug/netstandard1.6/Aston.Entities.pdb
+/Users/verdeny/AstonProject/Aston.Entities/obj/Debug/netstandard1.6/Aston.Entities.AssemblyInfo.cs
+/Users/verdeny/AstonProject/Aston.Entities/obj/Debug/netstandard1.6/Aston.Entities.dll
+/Users/verdeny/AstonProject/Aston.Entities/obj/Debug/netstandard1.6/Aston.Entities.pdb
